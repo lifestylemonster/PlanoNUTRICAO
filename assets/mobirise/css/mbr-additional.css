@@ -710,20 +710,6 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-s5GcKvwpvU {
-  background: #232323;
-  padding-top: 120px;
-  padding-bottom: 0px;
-  background: linear-gradient(0deg, #232323, #232323);
-}
-.cid-s5GcKvwpvU .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-s5GcKvwpvU .video-block {
-    width: 100% !important;
-  }
-}
 .cid-s4Us6ZsNC3 .navbar {
   background: #000000;
   transition: none;
